@@ -1,9 +1,15 @@
 h1 {
     color: blue;
 }
+#github {
+    color: darkorange;
+}
 #lorem35 {
     color: crimson;
 }
 #lorem50 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+* {
+    margin: 20px;
 }
